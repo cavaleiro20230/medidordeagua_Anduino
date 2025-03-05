@@ -2,9 +2,7 @@
 MEDIDOR DE AGUA EM ANDUINO 
 
 
-Thought for 2 seconds```typescriptreact project="simplified_interface"
-...
-```
+
 Duas novas telas completas para o seu sistema de monitoramento de água:
 
 ## 1. Tela de Relatórios
